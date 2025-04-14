@@ -25,11 +25,6 @@ This project implements a latency arbitrage strategy that reacts to large trades
    - Simulates slippage, latency, and execution risk
    - Applies trailing stops and profit targets
 
-4. **Statistical Testing**
-   - Bootstrap confidence intervals
-   - One-sided t-test for significance
-   - Power analysis for required sample size
-
 ## Features
 
 - Latency and slippage-aware backtest engine
