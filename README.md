@@ -6,6 +6,6 @@ This project implements a latency arbitrage strategy that reacts to large trades
 
 | File | Description |
 |------|-------------|
-| `start.ipynb` | Main notebook for running the strategy and analysis |
+| `strat.ipynb` | Main notebook for running the strategy and analysis |
 | `data_loader.py` | Data ingestion, preprocessing, and trade alignment |
 | `utils.py` | Core trading logic, slippage modeling, and statistical analysis |
